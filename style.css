@@ -29,7 +29,7 @@ body {
     background-color: rgb(0.90,0.00,0.90);
     padding: 28px;
     border-radius: 7px;
-    box-shadow: 0 10px 10px rgba(0, 0, 0, .3);
+    box-shadow: 0 10px 10px rgb(0.90,0.00,0.90);
     width: 90%;
     margin: 2rem;
     max-width: 50rem;
