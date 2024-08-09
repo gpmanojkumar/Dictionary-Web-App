@@ -1,4 +1,7 @@
 body {
+    background: rgb(15, 6, 78);
+    margin: 0;
+    display: flex;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
